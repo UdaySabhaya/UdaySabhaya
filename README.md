@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/uday-sabhaya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/uday_sabhaya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-sabhaya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/uday_sabhaya) 
 
 [![](https://visitcount.itsvg.in/api?id=UdaySabhaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
